@@ -1,2 +1,2 @@
 # Tokenization-Part1
-Tokenization Python
+Tokenizing a given documents page and store it in a dictionary.
